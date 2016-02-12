@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="JungleSocksSuite" thread-count="2" parallel="tests" verbose="1"> 
+ 	<!-- <test name="testJungleSocks_Chrome" preserve-order="true" > 
+ 	<parameter name="browser" value="chrome"/> 
+ 		<classes>
+ 			<class name="com.webdriver.na.junglesocks.test.ConfirmationPageTest"> 
+   				<methods>       
+   					<include name="verifySalesTax" />
+   					<include name="invalidCart"/>
+   					<include name="verifyCatalogPricing"/>
+   				</methods>    
+  			</class>
+  		</classes> 
+ 	</test>-->
+ 	<test name="testJungleSocks_Firefox" preserve-order="true" >  
+ 	<parameter name="browser" value="firefox"/>
+ 		<classes>
+ 			<class name="com.webdriver.na.junglesocks.test.ConfirmationPageTest"> 
+   				<methods>       
+   					<include name="verifySalesTax" />
+   					<include name="invalidCart"/>
+   					<include name="verifyCatalogPricing"/>
+   				</methods>    
+  			</class>
+  		</classes> 
+ 	</test>
+ </suite>

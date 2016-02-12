@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [JungleSocksSuite]" parallel="tests">
+  <parameter name="browser" value="firefox"/>
+  <test name="testJungleSocks_Firefox(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.webdriver.na.junglesocks.test.ConfirmationPageTest">
+        <methods>
+          <include name="verifySalesTax" invocation-numbers="4"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.webdriver.na.junglesocks.test.ConfirmationPageTest -->
+    </classes>
+  </test> <!-- testJungleSocks_Firefox(failed) -->
+</suite> <!-- Failed suite [JungleSocksSuite] -->

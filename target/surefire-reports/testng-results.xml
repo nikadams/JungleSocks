@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JungleSocksSuite" duration-ms="55153" started-at="2016-02-12T08:33:24Z" finished-at="2016-02-12T08:34:19Z">
+    <groups>
+    </groups>
+    <test name="testJungleSocks_Firefox" duration-ms="55153" started-at="2016-02-12T08:33:24Z" finished-at="2016-02-12T08:34:19Z">
+      <class name="com.webdriver.na.junglesocks.test.ConfirmationPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="6353" started-at="2016-02-12T00:33:24Z" finished-at="2016-02-12T00:33:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySalesTax(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="verifySalesTax" duration-ms="3500" started-at="2016-02-12T00:33:30Z" data-provider="provider" finished-at="2016-02-12T00:33:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySalesTax -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="594" started-at="2016-02-12T00:33:34Z" finished-at="2016-02-12T00:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="4272" started-at="2016-02-12T00:33:34Z" finished-at="2016-02-12T00:33:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySalesTax(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="verifySalesTax" duration-ms="3181" started-at="2016-02-12T00:33:39Z" data-provider="provider" finished-at="2016-02-12T00:33:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySalesTax -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="413" started-at="2016-02-12T00:33:42Z" finished-at="2016-02-12T00:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="4270" started-at="2016-02-12T00:33:42Z" finished-at="2016-02-12T00:33:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySalesTax(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="verifySalesTax" duration-ms="3105" started-at="2016-02-12T00:33:46Z" data-provider="provider" finished-at="2016-02-12T00:33:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Minnesota]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySalesTax -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="386" started-at="2016-02-12T00:33:49Z" finished-at="2016-02-12T00:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="4251" started-at="2016-02-12T00:33:50Z" finished-at="2016-02-12T00:33:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySalesTax(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="verifySalesTax" duration-ms="3180" started-at="2016-02-12T00:33:54Z" data-provider="provider" finished-at="2016-02-12T00:33:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Texas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySalesTax -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="417" started-at="2016-02-12T00:33:57Z" finished-at="2016-02-12T00:33:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="4248" started-at="2016-02-12T00:33:58Z" finished-at="2016-02-12T00:34:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySalesTax(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="verifySalesTax" duration-ms="2535" started-at="2016-02-12T00:34:02Z" data-provider="provider" finished-at="2016-02-12T00:34:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[xx]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Oregon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySalesTax -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="465" started-at="2016-02-12T00:34:05Z" finished-at="2016-02-12T00:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="4237" started-at="2016-02-12T00:34:05Z" finished-at="2016-02-12T00:34:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="invalidCart" duration-ms="1976" started-at="2016-02-12T00:34:09Z" data-provider="provider" finished-at="2016-02-12T00:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="377" started-at="2016-02-12T00:34:11Z" finished-at="2016-02-12T00:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="setup" is-config="true" duration-ms="4345" started-at="2016-02-12T00:34:12Z" finished-at="2016-02-12T00:34:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyCatalogPricing(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="verifyCatalogPricing" duration-ms="2059" started-at="2016-02-12T00:34:16Z" data-provider="provider" finished-at="2016-02-12T00:34:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCatalogPricing -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriver.na.junglesocks.test.ConfirmationPageTest@76959acc]" name="tearDown" is-config="true" duration-ms="403" started-at="2016-02-12T00:34:18Z" finished-at="2016-02-12T00:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webdriver.na.junglesocks.test.ConfirmationPageTest -->
+    </test> <!-- testJungleSocks_Firefox -->
+  </suite> <!-- JungleSocksSuite -->
+</testng-results>
